@@ -1,0 +1,15 @@
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/bin/Debug/net5.0/LINQDemo.deps.json
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/bin/Debug/net5.0/LINQDemo.runtimeconfig.json
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/bin/Debug/net5.0/LINQDemo.runtimeconfig.dev.json
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/bin/Debug/net5.0/LINQDemo.dll
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/bin/Debug/net5.0/ref/LINQDemo.dll
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/bin/Debug/net5.0/LINQDemo.pdb
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/obj/Debug/net5.0/LINQDemo.csproj.AssemblyReference.cache
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/obj/Debug/net5.0/LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/obj/Debug/net5.0/LINQDemo.AssemblyInfoInputs.cache
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/obj/Debug/net5.0/LINQDemo.AssemblyInfo.cs
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/obj/Debug/net5.0/LINQDemo.csproj.CoreCompileInputs.cache
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/obj/Debug/net5.0/LINQDemo.dll
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/obj/Debug/net5.0/ref/LINQDemo.dll
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/obj/Debug/net5.0/LINQDemo.pdb
+/Users/itsmewar_tran/Desktop/repo/Demos/LINQDemo/obj/Debug/net5.0/LINQDemo.genruntimeconfig.cache
